@@ -14,11 +14,11 @@
 
 # Setup
 <p>
-  1. Clonning our repo
-    git clone https://github.com/Temuult/Deepswap_Release.git
-    cd Deepswap_Release
-  2. Install requirements pip install -r requirement.txt
-  3. Install dlib from here 
+  1. Clonning our repo<br>
+    git clone https://github.com/Temuult/Deepswap_Release.git<br>
+    cd Deepswap_Release<br>
+  2. Install requirements pip install -r requirement.txt<br>
+  3. Install dlib from here <br>
     
 
 </p>
